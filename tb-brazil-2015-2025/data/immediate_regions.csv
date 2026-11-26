@@ -1,0 +1,511 @@
+rgi,rgi_nome,uf
+110001,Porto Velho,RO
+110002,Ariquemes,RO
+110003,Jaru,RO
+110004,Ji-Paraná,RO
+110005,Cacoal,RO
+110006,Vilhena,RO
+120001,Rio Branco,AC
+120002,Brasiléia,AC
+120003,Sena Madureira,AC
+120004,Cruzeiro do Sul,AC
+120005,Tarauacá,AC
+130001,Manaus,AM
+130002,São Gabriel da Cachoeira,AM
+130003,Coari,AM
+130004,Manacapuru,AM
+130005,Tefé,AM
+130006,Tabatinga,AM
+130007,Eirunepé,AM
+130008,Lábrea,AM
+130009,Manicoré,AM
+130010,Parintins,AM
+130011,Itacoatiara,AM
+140001,Boa Vista,RR
+140002,Pacaraima,RR
+140003,Rorainópolis,RR
+140004,Caracaraí,RR
+150001,Belém,PA
+150002,Cametá,PA
+150003,Abaetetuba,PA
+150004,Castanhal,PA
+150005,Bragança,PA
+150006,Capanema,PA
+150007,Paragominas,PA
+150008,Capitão Poço,PA
+150009,Marabá,PA
+150010,Parauapebas,PA
+150011,Tucuruí,PA
+150012,Redenção,PA
+150013,Tucumã - São Félix do Xingu,PA
+150014,Xinguara,PA
+150015,Santarém,PA
+150016,Itaituba,PA
+150017,Oriximiná,PA
+150018,Altamira,PA
+150019,Almeirim - Porto de Moz,PA
+150020,Breves,PA
+150021,Soure-Salvaterra,PA
+160001,Macapá,AP
+160002,Laranjal do Jari,AP
+160003,Oiapoque,AP
+160004,Porto Grande,AP
+170001,Palmas,TO
+170002,Porto Nacional,TO
+170003,Paraíso do Tocantins,TO
+170004,Miracema do Tocantins,TO
+170005,Araguaína,TO
+170006,Guaraí,TO
+170007,Colinas do Tocantins,TO
+170008,Tocantinópolis,TO
+170009,Araguatins,TO
+170010,Gurupi,TO
+170011,Dianópolis,TO
+210001,São Luís,MA
+210002,Pinheiro,MA
+210003,Chapadinha,MA
+210004,Itapecuru Mirim,MA
+210005,Viana,MA
+210006,Barreirinhas,MA
+210007,Tutóia - Araioses,MA
+210008,Cururupu,MA
+210009,Santa Inês,MA
+210010,Bacabal,MA
+210011,Governador Nunes Freire,MA
+210012,Pedreiras,MA
+210013,Caxias,MA
+210014,Timon,MA
+210015,Codó,MA
+210016,Presidente Dutra,MA
+210017,São João dos Patos,MA
+210018,Colinas,MA
+210019,Imperatriz,MA
+210020,Barra do Corda,MA
+210021,Açailândia,MA
+210022,Balsas,MA
+220001,Teresina,PI
+220002,Amarante - Água Branca - Regeneração,PI
+220003,Campo Maior,PI
+220004,Valença do Piauí,PI
+220005,Barras,PI
+220006,Parnaíba,PI
+220007,Piripiri,PI
+220008,Esperantina,PI
+220009,Picos,PI
+220010,Paulistana,PI
+220011,Oeiras,PI
+220012,Simplício Mendes,PI
+220013,São Raimundo Nonato,PI
+220014,São João do Piauí,PI
+220015,Corrente,PI
+220016,Bom Jesus,PI
+220017,Floriano,PI
+220018,Uruçuí,PI
+220019,Canto do Buriti,PI
+230001,Fortaleza,CE
+230002,Itapipoca,CE
+230003,Redenção-Acarape,CE
+230004,Canindé,CE
+230005,Itapagé,CE
+230006,Quixadá,CE
+230007,Russas - Limoeiro do Norte,CE
+230008,Aracati,CE
+230009,Iguatu,CE
+230010,Icó,CE
+230011,Juazeiro do Norte,CE
+230012,Brejo Santo,CE
+230013,Crateús,CE
+230014,Tauá,CE
+230015,Sobral,CE
+230016,São Benedito - Ipu - Guaraciaba do Norte - Tianguá,CE
+230017,Acaraú,CE
+230018,Camocim,CE
+240001,Natal,RN
+240002,Santo Antônio - Passa e Fica - Nova Cruz,RN
+240003,Canguaretama,RN
+240004,Santa Cruz,RN
+240005,João Câmara,RN
+240006,São Paulo do Potengi,RN
+240007,Caicó,RN
+240008,Currais Novos,RN
+240009,Mossoró,RN
+240010,Pau dos Ferros,RN
+240011,Açu,RN
+250001,João Pessoa,PB
+250002,Guarabira,PB
+250003,Mamanguape - Rio Tinto,PB
+250004,Itabaiana,PB
+250005,Campina Grande,PB
+250006,Cuité - Nova Floresta,PB
+250007,Monteiro,PB
+250008,Sumé,PB
+250009,Patos,PB
+250010,Itaporanga,PB
+250011,Catolé do Rocha - São Bento,PB
+250012,Pombal,PB
+250013,Princesa Isabel,PB
+250014,Sousa,PB
+250015,Cajazeiras,PB
+260001,Recife,PE
+260002,Goiana - Timbaúba,PE
+260003,Palmares,PE
+260004,Limoeiro,PE
+260005,Vitória de Santo Antão,PE
+260006,Carpina,PE
+260007,Barreiros - Sirinhaém,PE
+260008,Surubim,PE
+260018,Escada - Ribeirão,PE
+260009,Caruaru,PE
+260010,Garanhuns,PE
+260011,Arcoverde,PE
+260012,Belo Jardim - Pesqueira,PE
+260013,Serra Talhada,PE
+260014,Afogados da Ingazeira,PE
+260015,Petrolina,PE
+260016,Araripina,PE
+260017,Salgueiro,PE
+270001,Maceió,AL
+270002,Porto Calvo - São Luís do Quitunde,AL
+270003,Penedo,AL
+270004,São Miguel dos Campos,AL
+270005,União dos Palmares,AL
+270006,Atalaia,AL
+270007,Arapiraca,AL
+270008,Palmeira dos Índios,AL
+270009,Delmiro Gouveia,AL
+270010,Santana do Ipanema,AL
+270011,Pão de Açúcar - Olho d'Água das Flores - Batalha,AL
+280001,Aracaju,SE
+280002,Estância,SE
+280003,Propriá,SE
+280004,Itabaiana,SE
+280005,Lagarto,SE
+280006,Nossa Senhora da Glória,SE
+290001,Salvador,BA
+290002,Alagoinhas,BA
+290003,Santo Antônio de Jesus,BA
+290004,Cruz das Almas,BA
+290005,Valença,BA
+290006,Nazaré - Maragogipe,BA
+290007,Ilhéus - Itabuna,BA
+290008,Teixeira de Freitas,BA
+290009,Eunápolis - Porto Seguro,BA
+290010,Camacan,BA
+290011,Vitória da Conquista,BA
+290012,Jequié,BA
+290013,Brumado,BA
+290014,Ipiaú,BA
+290015,Itapetinga,BA
+290016,Guanambi,BA
+290017,Bom Jesus da Lapa,BA
+290018,Barreiras,BA
+290019,Santa Maria da Vitoria,BA
+290020,Irecê,BA
+290021,Xique-Xique - Barra,BA
+290022,Juazeiro,BA
+290023,Senhor do Bonfim,BA
+290024,Paulo Afonso,BA
+290025,Ribeira do Pombal,BA
+290026,Euclides da Cunha,BA
+290027,Cícero Dantas,BA
+290028,Jeremoabo,BA
+290029,Feira de Santana,BA
+290030,Jacobina,BA
+290031,Itaberaba,BA
+290032,Conceição do Coité,BA
+290033,Serrinha,BA
+290034,Seabra,BA
+310001,Belo Horizonte,MG
+310002,Sete Lagoas,MG
+310003,Santa Bárbara - Ouro Preto,MG
+310004,Curvelo,MG
+310005,Itabira,MG
+310006,Montes Claros,MG
+310007,Janaúba,MG
+310008,Salinas,MG
+310009,Januária,MG
+310010,Pirapora,MG
+310011,São Francisco,MG
+310012,Espinosa,MG
+310013,Teófilo Otoni,MG
+310014,Capelinha,MG
+310015,Almenara,MG
+310016,Diamantina,MG
+310017,Araçuaí,MG
+310018,Pedra Azul,MG
+310019,Águas Formosas,MG
+310020,Governador Valadares,MG
+310021,Guanhães,MG
+310022,Mantena,MG
+310023,Aimorés - Resplendor,MG
+310024,Ipatinga,MG
+310025,Caratinga,MG
+310026,João Monlevade,MG
+310027,Juiz de Fora,MG
+310028,Manhuaçu,MG
+310029,Ubá,MG
+310030,Ponte Nova,MG
+310031,Muriaé,MG
+310032,Cataguases,MG
+310033,Viçosa,MG
+310034,Carangola,MG
+310035,São João Nepomuceno - Bicas,MG
+310036,Além Paraíba,MG
+310037,Barbacena,MG
+310038,Conselheiro Lafaiete,MG
+310039,São João del Rei,MG
+310040,Varginha,MG
+310041,Passos,MG
+310042,Alfenas,MG
+310043,Lavras,MG
+310044,Guaxupé,MG
+310045,Três Corações,MG
+310046,Três Pontas - Boa Esperança,MG
+310047,São Sebastião do Paraíso,MG
+310048,Campo Belo,MG
+310049,Piumhi,MG
+310050,Pouso Alegre,MG
+310051,Poços de Caldas,MG
+310052,Itajubá,MG
+310053,São Lourenço,MG
+310054,Caxambu - Baependi,MG
+310055,Uberaba,MG
+310056,Araxá,MG
+310057,Frutal,MG
+310058,Iturama,MG
+310059,Uberlândia,MG
+310060,Ituiutaba,MG
+310061,Monte Carmelo,MG
+310062,Patos de Minas,MG
+310063,Unaí,MG
+310064,Patrocínio,MG
+310065,Divinópolis,MG
+310066,Formiga,MG
+310067,Dores do Indaiá,MG
+310068,Pará de Minas,MG
+310069,Oliveira,MG
+310070,Abaeté,MG
+320001,Vitória,ES
+320002,Afonso Cláudio - Venda Nova do Imigrante - Santa Maria de Jetibá,ES
+320003,São Mateus,ES
+320004,Linhares,ES
+320005,Colatina,ES
+320006,Nova Venécia,ES
+320007,Cachoeiro de Itapemirim,ES
+320008,Alegre,ES
+330001,Rio de Janeiro,RJ
+330002,Angra dos Reis,RJ
+330003,Rio Bonito,RJ
+330004,Volta Redonda - Barra Mansa,RJ
+330005,Resende,RJ
+330006,Valença,RJ
+330007,Petrópolis,RJ
+330008,Nova Friburgo,RJ
+330009,Três Rios - Paraíba do Sul,RJ
+330010,Campos dos Goytacazes,RJ
+330011,Itaperuna,RJ
+330012,Santo Antônio de Pádua,RJ
+330013,Cabo Frio,RJ
+330014,Macaé - Rio das Ostras,RJ
+350001,São Paulo,SP
+350002,Santos,SP
+350003,Sorocaba,SP
+350004,Itapeva,SP
+350005,Registro,SP
+350006,Itapetininga,SP
+350007,Avaré,SP
+350008,Tatuí,SP
+350009,Bauru,SP
+350010,Jaú,SP
+350011,Botucatu,SP
+350012,Lins,SP
+350013,Marília,SP
+350014,Assis,SP
+350015,Ourinhos,SP
+350016,Tupã,SP
+350017,Piraju,SP
+350018,Presidente Prudente,SP
+350019,Adamantina - Lucélia,SP
+350020,Dracena,SP
+350021,Presidente Epitácio-Presidente Venceslau,SP
+350022,Araçatuba,SP
+350023,Birigui - Penápolis,SP
+350024,Andradina,SP
+350025,São José do Rio Preto,SP
+350026,Catanduva,SP
+350027,Votuporanga,SP
+350028,Jales,SP
+350029,Fernandópolis,SP
+350030,Santa Fé do Sul,SP
+350031,Ribeirão Preto,SP
+350032,Barretos,SP
+350033,Franca,SP
+350034,São Joaquim da Barra - Orlândia,SP
+350035,Ituverava,SP
+350036,Araraquara,SP
+350037,São Carlos,SP
+350038,Campinas,SP
+350039,Jundiaí,SP
+350040,Piracicaba,SP
+350041,Bragança Paulista,SP
+350042,Limeira,SP
+350043,Mogi Guaçu,SP
+350044,São João da Boa Vista,SP
+350045,Araras,SP
+350046,Rio Claro,SP
+350047,São José do Rio Pardo - Mococa,SP
+350048,Amparo,SP
+350049,São José dos Campos,SP
+350050,Taubaté - Pindamonhangaba,SP
+350051,Caraguatatuba - Ubatuba - São Sebastião,SP
+350052,Guaratinguetá,SP
+350053,Cruzeiro,SP
+410001,Curitiba,PR
+410002,Paranaguá,PR
+410003,União da Vitória,PR
+410004,Guarapuava,PR
+410005,Pitanga,PR
+410006,Cascavel,PR
+410007,Foz do Iguaçu,PR
+410008,Toledo,PR
+410009,Francisco Beltrão,PR
+410010,Pato Branco,PR
+410011,Laranjeiras do Sul - Quedas do Iguaçu,PR
+410012,Dois Vizinhos,PR
+410013,Marechal Cândido Rondon,PR
+410014,Maringá,PR
+410015,Campo Mourão,PR
+410016,Umuarama,PR
+410017,Paranavaí,PR
+410018,Cianorte,PR
+410019,Paranacity - Colorado,PR
+410020,Loanda,PR
+410021,Londrina,PR
+410022,Santo Antônio da Platina,PR
+410023,Apucarana,PR
+410024,Cornélio Procópio - Bandeirantes,PR
+410025,Ivaiporã,PR
+410026,Ibaiti,PR
+410027,Ponta Grossa,PR
+410028,Telêmaco Borba,PR
+410029,Irati,PR
+420001,Florianópolis,SC
+420002,Criciúma,SC
+420003,Tubarão,SC
+420004,Araranguá,SC
+420005,Lages,SC
+420006,Curitibanos,SC
+420007,Chapecó,SC
+420008,Joaçaba - Herval d'Oeste,SC
+420009,São Miguel do Oeste,SC
+420010,Concórdia,SC
+420011,Xanxerê,SC
+420012,Maravilha,SC
+420013,São Lourenço do Oeste,SC
+420014,Caçador,SC
+420015,Videira,SC
+420016,Joinville,SC
+420017,Mafra,SC
+420018,São Bento do Sul - Rio Negrinho,SC
+420019,Blumenau,SC
+420020,Itajaí,SC
+420021,Brusque,SC
+420022,Rio do Sul,SC
+420023,Ibirama - Presidente Getúlio,SC
+420024,Ituporanga,SC
+430001,Porto Alegre,RS
+430002,Novo Hamburgo - São Leopoldo,RS
+430003,Tramandaí - Osório,RS
+430004,Taquara - Parobé - Igrejinha,RS
+430005,Camaquã,RS
+430006,Charqueadas - Triunfo - São Jerônimo,RS
+430007,Montenegro,RS
+430008,Torres,RS
+430009,Pelotas,RS
+430010,Bagé,RS
+430011,Santa Maria,RS
+430012,São Gabriel - Caçapava do Sul,RS
+430013,Cachoeira do Sul,RS
+430014,Santiago,RS
+430015,Uruguaiana,RS
+430016,Santana do Livramento,RS
+430017,São Borja,RS
+430018,Ijuí,RS
+430019,Santa Rosa,RS
+430020,Santo Ângelo,RS
+430021,Três Passos,RS
+430022,São Luiz Gonzaga,RS
+430023,Três de Maio,RS
+430024,Cerro Largo,RS
+430025,Passo Fundo,RS
+430026,Erechim,RS
+430027,Cruz Alta,RS
+430028,Carazinho,RS
+430029,Frederico Westphalen,RS
+430030,Marau,RS
+430031,Soledade,RS
+430032,Tapejara - Sananduva,RS
+430033,Lagoa Vermelha,RS
+430034,Palmeira das Missões,RS
+430035,Nonoai,RS
+430036,Caxias do Sul,RS
+430037,Bento Gonçalves,RS
+430038,Nova Prata - Guaporé,RS
+430039,Vacaria,RS
+430040,Santa Cruz do Sul,RS
+430041,Lajeado,RS
+430042,Sobradinho,RS
+430043,Encantado,RS
+500001,Campo Grande,MS
+500002,Três Lagoas,MS
+500003,Paranaíba - Chapadão do Sul - Cassilândia,MS
+500004,Coxim,MS
+500005,Dourados,MS
+500006,Naviraí - Mundo Novo,MS
+500007,Nova Andradina,MS
+500008,Ponta Porã,MS
+500009,Amambai,MS
+500010,Corumbá,MS
+500011,Jardim,MS
+500012,Aquidauana - Anastácio,MS
+510001,Cuiabá,MT
+510002,Tangará da Serra,MT
+510003,Diamantino,MT
+510004,Cáceres,MT
+510005,Pontes e Lacerda - Comodoro,MT
+510006,Mirassol D'oeste,MT
+510007,Sinop,MT
+510008,Sorriso,MT
+510009,Juína,MT
+510010,Alta Floresta,MT
+510011,Peixoto de Azevedo - Guarantã do Norte,MT
+510012,Juara,MT
+510013,Barra do Garças,MT
+510014,Confresa - Vila Rica,MT
+510015,Água Boa,MT
+510016,Rondonópolis,MT
+510017,Primavera do Leste,MT
+510018,Jaciara,MT
+520001,Goiânia,GO
+520002,Anápolis,GO
+520003,Inhumas - Itaberaí - Anicuns,GO
+520004,Catalão,GO
+520005,Goiás - Itapuranga,GO
+520006,Pires do Rio,GO
+520007,Itumbiara,GO
+520008,Caldas Novas-Morrinhos,GO
+520009,Piracanjuba,GO
+520010,Rio Verde,GO
+520011,Jataí-Mineiros,GO
+520012,Quirinópolis,GO
+520013,São Luís de Montes Belos,GO
+520014,Iporá,GO
+520015,Palmeiras de Goiás,GO
+520016,Porangatu,GO
+520017,Uruaçu - Niquelândia,GO
+520018,Ceres - Rialma - Goianésia,GO
+520019,Luziânia,GO
+520020,Águas Lindas de Goiás,GO
+520021,Posse-Campos Belos,GO
+520022,Flores de Goiás,GO
+530001,Distrito Federal,DF
