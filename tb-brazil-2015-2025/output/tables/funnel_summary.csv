@@ -1,7 +1,0 @@
-measure,value
-"Municipalities >= 100,000 inhabitants",319
-Above Poisson 99.8% limit,97
-Above overdispersion-adjusted 99.8% limit,25
-Below overdispersion-adjusted 99.8% limit,0
-Overdispersion factor (winsorised),9.4787134998756
-"tau (per 100,000)",6.65131518808715
