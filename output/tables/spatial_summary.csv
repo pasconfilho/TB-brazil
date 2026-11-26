@@ -1,0 +1,14 @@
+measure,value
+Municipalities analysed,5564
+Cases without municipal match,17
+"Global Moran's I (EB), non-PDL",0.51261282067051
+Permutation p,0.001
+"Global Moran's I (EB), all cases",0.244262565513942
+Permutation p,0.001
+"High-high municipalities, p<0.05 (999 perm.)",569
+"High-high municipalities, p<0.05 (9,999 perm.)",575
+  share of population (%),36.9521552183151
+  share of non-PDL cases (%),62.8184223546368
+"High-high municipalities, FDR<0.05",210
+  share of population (%),23.1584091565868
+  share of non-PDL cases (%),45.7891453524641
